@@ -1,0 +1,21 @@
+
+.wrapper {
+	max-width:100%;
+}
+.content {
+	width: 39%;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	margin: 20px 0px;
+}
+.c-1, .c-3 {
+	margin-right: 1%;
+}
+.c-2, .c-4 {
+	margin-left: 1%;
+}
+.group {
+	text-align: center;
+	margin-bottom: 20px;
+}
