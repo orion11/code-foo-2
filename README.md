@@ -22,7 +22,7 @@ Liquid layout is typically used to try to support a variety of screen sizes & re
 - /intro.mp4
 
 
-For convenience I have also hosted all of this here:
+For convenience it is all running live here:
 
 www.nab.bz
 
